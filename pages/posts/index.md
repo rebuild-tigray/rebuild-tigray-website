@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: Stories
+date: 2023-11-01
 ---
 
-# Posts
+# Stories

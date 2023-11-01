@@ -67,3 +67,7 @@ img.next-image {
 a:hover {
   text-decoration: dotted underline;
 }
+
+blockquote {
+  font-size: 1rem;
+}
